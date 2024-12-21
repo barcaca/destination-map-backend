@@ -2,7 +2,7 @@
   "users": [],
   "places": [
     {
-      "id": ""1"",
+      "id": "1",
       "title": "Ponta do Sol",
       "description": "Uma bela cidade costeira com vistas deslumbrantes para o oceano.",
       "location": {
@@ -19,7 +19,7 @@
       "favorite": false
     },
     {
-      "id": ""2"",
+      "id": "2",
       "title": "Redberth",
       "description": "Uma encantadora vila rural com rica história e paisagens deslumbrantes.",
       "location": {
